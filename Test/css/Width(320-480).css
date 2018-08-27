@@ -1,0 +1,14 @@
+.name_social{
+	display: none;
+}
+.name_social_mark{
+	width: 100%;
+	justify-content: center;
+}
+.foot_tx{
+	font-size: 1.2em;
+	top: 80px;
+}
+.inst{
+	font-size: 1em;
+}

@@ -1,0 +1,85 @@
+.cic{
+	display: block;
+	position: static;
+	width: 20px;
+	height: 20px;
+	margin: 10px auto;
+}
+.cic_text{
+	display: block;
+	position: static;
+	text-align: center;
+}
+.clock_it{
+	width: 20px;
+	height: 20px;
+	position: static;
+	display: block;
+	margin: 10px auto;
+}
+.clock_tx{
+	position: static;
+	display: block;
+	margin-top: 30px;
+	text-align: center;
+}
+.view_im{
+	height: 20px;
+	position: static;
+	display: block;
+	margin: 10px auto;
+}
+.view_tx{
+	position: static;
+	display: block;
+	margin-top: 30px;
+	text-align: center;
+}
+.container{
+	height: 100%;
+}
+.bl{
+	font-size: 0.9em;
+	text-align: center;
+}
+.bl_im_6{
+	display: block;
+	text-align: center;
+}
+.bl_tx_2{
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+.bl_im_2{
+	display: block;
+	text-align: center;
+}
+.bl_im_3{
+	display: block;
+	text-align: center;
+}
+.bl_tx_3{
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+.bl_im_4{
+	display: block;
+	text-align: center;
+}
+.bl_tx{
+	display: block;
+	text-align: center;
+	width: 100%;
+}
+.quote{
+	font-size: 1.6em;
+}
+.bl_tx_last{
+	margin: 10px;
+	font-size: 1.2em;
+}
+.txt_ls{
+	margin: 10px;
+}
